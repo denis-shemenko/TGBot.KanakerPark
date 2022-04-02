@@ -1,0 +1,205 @@
+2022-04-02 01:31:59.5206 Info Message Template Auto Format enabled
+2022-04-02 01:31:59.5480 Info Adding target FileTarget(Name=logfile)
+2022-04-02 01:31:59.5480 Info Adding target ConsoleTarget(Name=logconsole)
+2022-04-02 01:31:59.5634 Info Validating config: TargetNames=logfile, ConfigItems=25, FilePath=C:\sources\Shem\TGBot.KanakerPark\bin\Debug\net6.0\NLog.config
+2022-04-02 01:31:59.5634 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: logconsole
+2022-04-02 01:31:59.5764 Info Configuration initialized.
+2022-04-02 01:31:59.5764 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-02 01:33:39.8526 Info Message Template Auto Format enabled
+2022-04-02 01:33:39.8783 Info Adding target FileTarget(Name=logfile)
+2022-04-02 01:33:39.8783 Info Adding target ConsoleTarget(Name=logconsole)
+2022-04-02 01:33:39.8929 Info Validating config: TargetNames=logfile, ConfigItems=25, FilePath=C:\sources\Shem\TGBot.KanakerPark\bin\Debug\net6.0\NLog.config
+2022-04-02 01:33:39.8929 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: logconsole
+2022-04-02 01:33:39.9023 Info Configuration initialized.
+2022-04-02 01:33:39.9023 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-02 01:55:36.3419 Info Message Template Auto Format enabled
+2022-04-02 01:55:36.3676 Info Adding target FileTarget(Name=logfile)
+2022-04-02 01:55:36.3676 Info Adding target ConsoleTarget(Name=logconsole)
+2022-04-02 01:55:36.3854 Info Validating config: TargetNames=logfile, ConfigItems=25, FilePath=C:\sources\Shem\TGBot.KanakerPark\bin\Debug\net6.0\NLog.config
+2022-04-02 01:55:36.3854 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: logconsole
+2022-04-02 01:55:36.3854 Info Configuration initialized.
+2022-04-02 01:55:36.3854 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-02 01:59:21.1412 Info Message Template Auto Format enabled
+2022-04-02 01:59:21.1667 Info Adding target FileTarget(Name=logfile)
+2022-04-02 01:59:21.1678 Info Adding target ConsoleTarget(Name=logconsole)
+2022-04-02 01:59:21.1851 Info Validating config: TargetNames=logfile, ConfigItems=25, FilePath=C:\sources\Shem\TGBot.KanakerPark\bin\Debug\net6.0\NLog.config
+2022-04-02 01:59:21.1851 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: logconsole
+2022-04-02 01:59:21.1851 Info Configuration initialized.
+2022-04-02 01:59:21.2002 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-02 02:04:51.2199 Info Message Template Auto Format enabled
+2022-04-02 02:04:51.2441 Info Adding target FileTarget(Name=logfile)
+2022-04-02 02:04:51.2441 Info Adding target ConsoleTarget(Name=logconsole)
+2022-04-02 02:04:51.2587 Info Validating config: TargetNames=logfile, ConfigItems=25, FilePath=C:\sources\Shem\TGBot.KanakerPark\bin\Debug\net6.0\NLog.config
+2022-04-02 02:04:51.2587 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: logconsole
+2022-04-02 02:04:51.2587 Info Configuration initialized.
+2022-04-02 02:04:51.2694 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-02 02:06:15.7377 Info Message Template Auto Format enabled
+2022-04-02 02:06:15.7641 Info Adding target FileTarget(Name=logfile)
+2022-04-02 02:06:15.7641 Info Adding target ConsoleTarget(Name=logconsole)
+2022-04-02 02:06:15.7822 Info Validating config: TargetNames=logfile, ConfigItems=25, FilePath=C:\sources\Shem\TGBot.KanakerPark\bin\Debug\net6.0\NLog.config
+2022-04-02 02:06:15.7822 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: logconsole
+2022-04-02 02:06:15.7822 Info Configuration initialized.
+2022-04-02 02:06:15.7822 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-02 02:07:33.6090 Info Message Template Auto Format enabled
+2022-04-02 02:07:33.6401 Info Adding target FileTarget(Name=logfile)
+2022-04-02 02:07:33.6401 Info Adding target ConsoleTarget(Name=logconsole)
+2022-04-02 02:07:33.6586 Info Validating config: TargetNames=logfile, ConfigItems=25, FilePath=C:\sources\Shem\TGBot.KanakerPark\bin\Debug\net6.0\NLog.config
+2022-04-02 02:07:33.6586 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: logconsole
+2022-04-02 02:07:33.6700 Info Configuration initialized.
+2022-04-02 02:07:33.6700 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-02 02:10:29.0056 Info Message Template Auto Format enabled
+2022-04-02 02:10:29.0361 Info Adding target FileTarget(Name=logfile)
+2022-04-02 02:10:29.0361 Info Adding target ConsoleTarget(Name=logconsole)
+2022-04-02 02:10:29.0361 Info Validating config: TargetNames=logfile, ConfigItems=25, FilePath=C:\sources\Shem\TGBot.KanakerPark\bin\Debug\net6.0\NLog.config
+2022-04-02 02:10:29.0552 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: logconsole
+2022-04-02 02:10:29.0603 Info Configuration initialized.
+2022-04-02 02:10:29.0603 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-02 02:15:27.7373 Info Message Template Auto Format enabled
+2022-04-02 02:15:27.7616 Info Adding target FileTarget(Name=logfile)
+2022-04-02 02:15:27.7616 Info Adding target ConsoleTarget(Name=logconsole)
+2022-04-02 02:15:27.7743 Info Validating config: TargetNames=logfile, ConfigItems=25, FilePath=C:\sources\Shem\TGBot.KanakerPark\bin\Debug\net6.0\NLog.config
+2022-04-02 02:15:27.7743 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: logconsole
+2022-04-02 02:15:27.7743 Info Configuration initialized.
+2022-04-02 02:15:27.7743 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-02 02:38:26.1657 Info Message Template Auto Format enabled
+2022-04-02 02:38:26.1927 Info Adding target FileTarget(Name=logfile)
+2022-04-02 02:38:26.1927 Info Adding target ConsoleTarget(Name=logconsole)
+2022-04-02 02:38:26.2058 Info Validating config: TargetNames=logfile, ConfigItems=25, FilePath=C:\sources\Shem\TGBot.KanakerPark\bin\Debug\net6.0\NLog.config
+2022-04-02 02:38:26.2058 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: logconsole
+2022-04-02 02:38:26.2058 Info Configuration initialized.
+2022-04-02 02:38:26.2190 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-02 02:45:35.6942 Info Message Template Auto Format enabled
+2022-04-02 02:45:35.7269 Info Adding target FileTarget(Name=logfile)
+2022-04-02 02:45:35.7281 Info Adding target ConsoleTarget(Name=logconsole)
+2022-04-02 02:45:35.7281 Info Validating config: TargetNames=logfile, ConfigItems=25, FilePath=C:\sources\Shem\TGBot.KanakerPark\bin\Debug\net6.0\NLog.config
+2022-04-02 02:45:35.7485 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: logconsole
+2022-04-02 02:45:35.7485 Info Configuration initialized.
+2022-04-02 02:45:35.7485 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-02 02:46:13.9466 Info Message Template Auto Format enabled
+2022-04-02 02:46:13.9704 Info Adding target FileTarget(Name=logfile)
+2022-04-02 02:46:13.9704 Info Adding target ConsoleTarget(Name=logconsole)
+2022-04-02 02:46:13.9704 Info Validating config: TargetNames=logfile, ConfigItems=25, FilePath=C:\sources\Shem\TGBot.KanakerPark\bin\Debug\net6.0\NLog.config
+2022-04-02 02:46:13.9704 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: logconsole
+2022-04-02 02:46:13.9918 Info Configuration initialized.
+2022-04-02 02:46:13.9918 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-02 02:47:20.4524 Info Message Template Auto Format enabled
+2022-04-02 02:47:20.4791 Info Adding target FileTarget(Name=logfile)
+2022-04-02 02:47:20.4791 Info Adding target ConsoleTarget(Name=logconsole)
+2022-04-02 02:47:20.4979 Info Validating config: TargetNames=logfile, ConfigItems=25, FilePath=C:\sources\Shem\TGBot.KanakerPark\bin\Debug\net6.0\NLog.config
+2022-04-02 02:47:20.4979 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: logconsole
+2022-04-02 02:47:20.5091 Info Configuration initialized.
+2022-04-02 02:47:20.5091 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-02 02:47:46.7025 Info Message Template Auto Format enabled
+2022-04-02 02:47:46.7398 Info Adding target FileTarget(Name=logfile)
+2022-04-02 02:47:46.7412 Info Adding target ConsoleTarget(Name=logconsole)
+2022-04-02 02:47:46.7568 Info Validating config: TargetNames=logfile, ConfigItems=25, FilePath=C:\sources\Shem\TGBot.KanakerPark\bin\Debug\net6.0\NLog.config
+2022-04-02 02:47:46.7568 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: logconsole
+2022-04-02 02:47:46.7671 Info Configuration initialized.
+2022-04-02 02:47:46.7671 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-02 02:50:46.7135 Info Message Template Auto Format enabled
+2022-04-02 02:50:46.7416 Info Adding target FileTarget(Name=logfile)
+2022-04-02 02:50:46.7416 Info Adding target ConsoleTarget(Name=logconsole)
+2022-04-02 02:50:46.7560 Info Validating config: TargetNames=logfile, ConfigItems=25, FilePath=C:\sources\Shem\TGBot.KanakerPark\bin\Debug\net6.0\NLog.config
+2022-04-02 02:50:46.7597 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: logconsole
+2022-04-02 02:50:46.7597 Info Configuration initialized.
+2022-04-02 02:50:46.7597 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-02 02:52:00.9653 Info Message Template Auto Format enabled
+2022-04-02 02:52:00.9910 Info Adding target FileTarget(Name=logfile)
+2022-04-02 02:52:00.9910 Info Adding target ConsoleTarget(Name=logconsole)
+2022-04-02 02:52:01.0041 Info Validating config: TargetNames=logfile, ConfigItems=25, FilePath=C:\sources\Shem\TGBot.KanakerPark\bin\Debug\net6.0\NLog.config
+2022-04-02 02:52:01.0041 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: logconsole
+2022-04-02 02:52:01.0128 Info Configuration initialized.
+2022-04-02 02:52:01.0128 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-02 02:52:26.6967 Info Message Template Auto Format enabled
+2022-04-02 02:52:26.7234 Info Adding target FileTarget(Name=logfile)
+2022-04-02 02:52:26.7234 Info Adding target ConsoleTarget(Name=logconsole)
+2022-04-02 02:52:26.7372 Info Validating config: TargetNames=logfile, ConfigItems=25, FilePath=C:\sources\Shem\TGBot.KanakerPark\bin\Debug\net6.0\NLog.config
+2022-04-02 02:52:26.7372 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: logconsole
+2022-04-02 02:52:26.7469 Info Configuration initialized.
+2022-04-02 02:52:26.7469 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-02 02:53:19.1630 Info Message Template Auto Format enabled
+2022-04-02 02:53:19.1884 Info Adding target FileTarget(Name=logfile)
+2022-04-02 02:53:19.1884 Info Adding target ConsoleTarget(Name=logconsole)
+2022-04-02 02:53:19.1884 Info Validating config: TargetNames=logfile, ConfigItems=25, FilePath=C:\sources\Shem\TGBot.KanakerPark\bin\Debug\net6.0\NLog.config
+2022-04-02 02:53:19.1884 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: logconsole
+2022-04-02 02:53:19.2099 Info Configuration initialized.
+2022-04-02 02:53:19.2099 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-02 02:53:59.0487 Info Message Template Auto Format enabled
+2022-04-02 02:53:59.0743 Info Adding target FileTarget(Name=logfile)
+2022-04-02 02:53:59.0743 Info Adding target ConsoleTarget(Name=logconsole)
+2022-04-02 02:53:59.0889 Info Validating config: TargetNames=logfile, ConfigItems=25, FilePath=C:\sources\Shem\TGBot.KanakerPark\bin\Debug\net6.0\NLog.config
+2022-04-02 02:53:59.0889 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: logconsole
+2022-04-02 02:53:59.0889 Info Configuration initialized.
+2022-04-02 02:53:59.0889 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-02 03:14:11.6891 Info Message Template Auto Format enabled
+2022-04-02 03:14:11.7160 Info Adding target FileTarget(Name=logfile)
+2022-04-02 03:14:11.7160 Info Adding target ConsoleTarget(Name=logconsole)
+2022-04-02 03:14:11.7294 Info Validating config: TargetNames=logfile, ConfigItems=25, FilePath=C:\sources\Shem\TGBot.KanakerPark\bin\Debug\net6.0\NLog.config
+2022-04-02 03:14:11.7347 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: logconsole
+2022-04-02 03:14:11.7347 Info Configuration initialized.
+2022-04-02 03:14:11.7432 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-02 03:15:11.8794 Info Message Template Auto Format enabled
+2022-04-02 03:15:11.9101 Info Adding target FileTarget(Name=logfile)
+2022-04-02 03:15:11.9101 Info Adding target ConsoleTarget(Name=logconsole)
+2022-04-02 03:15:11.9101 Info Validating config: TargetNames=logfile, ConfigItems=25, FilePath=C:\sources\Shem\TGBot.KanakerPark\bin\Debug\net6.0\NLog.config
+2022-04-02 03:15:11.9289 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: logconsole
+2022-04-02 03:15:11.9289 Info Configuration initialized.
+2022-04-02 03:15:11.9289 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-02 03:16:45.9188 Info Message Template Auto Format enabled
+2022-04-02 03:16:45.9434 Info Adding target FileTarget(Name=logfile)
+2022-04-02 03:16:45.9434 Info Adding target ConsoleTarget(Name=logconsole)
+2022-04-02 03:16:45.9579 Info Validating config: TargetNames=logfile, ConfigItems=25, FilePath=C:\sources\Shem\TGBot.KanakerPark\bin\Debug\net6.0\NLog.config
+2022-04-02 03:16:45.9579 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: logconsole
+2022-04-02 03:16:45.9579 Info Configuration initialized.
+2022-04-02 03:16:45.9707 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-02 03:17:08.2457 Info Message Template Auto Format enabled
+2022-04-02 03:17:08.2744 Info Adding target FileTarget(Name=logfile)
+2022-04-02 03:17:08.2744 Info Adding target ConsoleTarget(Name=logconsole)
+2022-04-02 03:17:08.2914 Info Validating config: TargetNames=logfile, ConfigItems=25, FilePath=C:\sources\Shem\TGBot.KanakerPark\bin\Debug\net6.0\NLog.config
+2022-04-02 03:17:08.2959 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: logconsole
+2022-04-02 03:17:08.2959 Info Configuration initialized.
+2022-04-02 03:17:08.2959 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-02 03:19:45.0446 Info Message Template Auto Format enabled
+2022-04-02 03:19:45.0711 Info Adding target FileTarget(Name=logfile)
+2022-04-02 03:19:45.0711 Info Adding target ConsoleTarget(Name=logconsole)
+2022-04-02 03:19:45.0845 Info Validating config: TargetNames=logfile, ConfigItems=25, FilePath=C:\sources\Shem\TGBot.KanakerPark\bin\Debug\net6.0\NLog.config
+2022-04-02 03:19:45.0845 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: logconsole
+2022-04-02 03:19:45.0940 Info Configuration initialized.
+2022-04-02 03:19:45.0940 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-02 03:21:41.5424 Info Message Template Auto Format enabled
+2022-04-02 03:21:41.5749 Info Adding target FileTarget(Name=logfile)
+2022-04-02 03:21:41.5749 Info Adding target ConsoleTarget(Name=logconsole)
+2022-04-02 03:21:41.5902 Info Validating config: TargetNames=logfile, ConfigItems=25, FilePath=C:\sources\Shem\TGBot.KanakerPark\bin\Debug\net6.0\NLog.config
+2022-04-02 03:21:41.5902 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: logconsole
+2022-04-02 03:21:41.5902 Info Configuration initialized.
+2022-04-02 03:21:41.6026 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-02 03:22:25.8559 Info Message Template Auto Format enabled
+2022-04-02 03:22:25.8796 Info Adding target FileTarget(Name=logfile)
+2022-04-02 03:22:25.8796 Info Adding target ConsoleTarget(Name=logconsole)
+2022-04-02 03:22:25.8937 Info Validating config: TargetNames=logfile, ConfigItems=25, FilePath=C:\sources\Shem\TGBot.KanakerPark\bin\Debug\net6.0\NLog.config
+2022-04-02 03:22:25.8937 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: logconsole
+2022-04-02 03:22:25.8937 Info Configuration initialized.
+2022-04-02 03:22:25.9047 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-02 03:23:03.6016 Info Message Template Auto Format enabled
+2022-04-02 03:23:03.6259 Info Adding target FileTarget(Name=logfile)
+2022-04-02 03:23:03.6259 Info Adding target ConsoleTarget(Name=logconsole)
+2022-04-02 03:23:03.6405 Info Validating config: TargetNames=logfile, ConfigItems=25, FilePath=C:\sources\Shem\TGBot.KanakerPark\bin\Debug\net6.0\NLog.config
+2022-04-02 03:23:03.6405 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: logconsole
+2022-04-02 03:23:03.6405 Info Configuration initialized.
+2022-04-02 03:23:03.6405 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-02 03:24:03.2698 Info Message Template Auto Format enabled
+2022-04-02 03:24:03.2999 Info Adding target FileTarget(Name=logfile)
+2022-04-02 03:24:03.2999 Info Adding target ConsoleTarget(Name=logconsole)
+2022-04-02 03:24:03.2999 Info Validating config: TargetNames=logfile, ConfigItems=25, FilePath=C:\sources\Shem\TGBot.KanakerPark\bin\Debug\net6.0\NLog.config
+2022-04-02 03:24:03.3218 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: logconsole
+2022-04-02 03:24:03.3278 Info Configuration initialized.
+2022-04-02 03:24:03.3278 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-02 03:24:03.8788 Info AppDomain Shutting down. Logger closing...
+2022-04-02 03:24:03.8901 Info Logger has been shut down.
+2022-04-02 03:24:14.9396 Info Message Template Auto Format enabled
+2022-04-02 03:24:14.9635 Info Adding target FileTarget(Name=logfile)
+2022-04-02 03:24:14.9635 Info Adding target ConsoleTarget(Name=logconsole)
+2022-04-02 03:24:14.9774 Info Validating config: TargetNames=logfile, ConfigItems=25, FilePath=C:\sources\Shem\TGBot.KanakerPark\bin\Debug\net6.0\NLog.config
+2022-04-02 03:24:14.9774 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: logconsole
+2022-04-02 03:24:14.9874 Info Configuration initialized.
+2022-04-02 03:24:14.9874 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
